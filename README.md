@@ -4,6 +4,14 @@ Initiative by LunCo to explore new ways to fund Public Goods and conduct quick f
 
 ## Crowdfunding rounds on Allo-V2
 
+### Live Rounds
+
+1. [Base](https://explorer.gitcoin.co/#/round/8453/8)
+2. [Optimism](https://explorer.gitcoin.co/#/round/10/16)
+3. [Arbitrum](https://explorer.gitcoin.co/#/round/42161/37)
+4. [Polygon](https://explorer.gitcoin.co/#/round/137/9)
+5. [Scroll](https://explorer.gitcoin.co/#/round/534352/5)
+### Apply
 1. [Base](https://builder.gitcoin.co/#/chains/8453/rounds/8)
 2. [Optimism](https://builder.gitcoin.co/#/chains/10/rounds/16)
 3. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/37)
