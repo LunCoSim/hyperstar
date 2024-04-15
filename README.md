@@ -29,4 +29,7 @@ Initiative by LunCo to explore new ways to fund Public Goods and conduct quick f
 4. [Polygon](https://polygonscan.com/address/0x6c0af1cC8000F8D2A74674cC070384c993078DBF)
 5. [Scroll](https://scrollscan.com/address/0x6c0af1cC8000F8D2A74674cC070384c993078DBF)
 
-### 
+### Links
+
+1. [Linkedin](https://www.linkedin.com/company/hyperstar-pg/)
+2. [Telegram](https://t.me/hyperstar_pg)
