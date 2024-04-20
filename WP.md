@@ -34,14 +34,20 @@ Technically speaking the goal is to summon web3 hyperstrucutre that will fuel pu
 7. While round stewards are volunteers and make decisions, as the community is small in case of if it's unclear engage the community on telegram
 8. Select color for the round and use existing assets like Logo and Banner, just recolor it (TBD Link to assets)
 
-## Entities
+### Running experiments
 
-### Summoned entities
+1. Multichain - run QF rounds on all chains
+2. Sponsors are welcomed as grantees on the round
+3. QF Crowdsourcing round for H*
+
+## H-Structures
+
+### Summoned H-Structures
 
 1. [HyperDeSci](https://github.com/LunCoSim/hyperdesci)
 2. [HyperLocalizer](https://github.com/LunCoSim/hyperlocalizer)
 
-### Ideas
+### H-Structures Ideas
 1. HyperDeSpace - for space exploration
 2. HyperAi - for decentralized AI projects
 3. HyperLongivity - for longivity projects :D
