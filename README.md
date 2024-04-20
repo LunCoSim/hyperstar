@@ -1,6 +1,8 @@
 # HyperStar
 
-Initiative by LunCo to explore new ways to fund Public Goods and conduct quick funding experiments on Allo-V2
+Everyone can do web3
+
+Metric - number of people who directly benefited
 
 ## Crowdfunding rounds on Allo-V2
 
